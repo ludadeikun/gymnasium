@@ -96,6 +96,9 @@ ul.navigation{
     border: none;
     font-size: 1.1em;
 }
+.img-wrapper-button:hover {
+    cursor: pointer;
+}
 
 .image-wrapper-control {
     position: absolute;
