@@ -60,9 +60,14 @@ ul.navigation{
     align-items: center;
     color: #fff;
 }
+ul.navigation li {
+    height: 100%;
+}
 .navigation a {
     text-decoration: none;
-    color: #fff;
+    color: #fff;    
+    line-height: 35px;
+    display: inline-block;
 }
 
 .navigation a:hover {
